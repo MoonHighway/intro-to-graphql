@@ -22,6 +22,11 @@ Welcome! I'm really glad that you're here. Below you'll find all of the resource
 - [SWAPI: Star Wars API](http://graphql.org/swapi-graphql/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
+### Schema Slides
+
+* [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
+* [Schema Cheatsheet](https://raw.githubusercontent.com/sogko/graphql-shorthand-notation-cheat-sheet/master/graphql-shorthand-notation-cheat-sheet.png)
+
 ### Building a GraphQL API
 
 - [Snowtooth API](https://github.com/graphqlworkshop/snowtooth-api)
