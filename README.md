@@ -34,6 +34,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 ### Building a GraphQL API
 
 - [Snowtooth API](https://github.com/graphqlworkshop/snowtooth-api)
+- [Snowtooth API: CodeSandbox Start](https://codesandbox.io/s/loving-turing-ri7pn)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 
