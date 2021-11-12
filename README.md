@@ -36,6 +36,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - [Snowtooth API](https://github.com/graphqlworkshop/snowtooth-api)
 - [Snowtooth API: CodeSandbox Start](https://codesandbox.io/s/loving-turing-ri7pn)
 - [Simple Strava Sample](https://github.com/eveporcello/simple-strava-sample/blob/master/index.js)
+- [Pet Library - MongoDB](https://github.com/moonhighway/pet-library)
 - [REST Data Sources](https://github.com/MoonHighway/countries-datasources)
 
 ### Apollo Client
