@@ -22,10 +22,6 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
 
-### Apollo Studio Setup
-
-- [Studio Login](https://studio.apollographql.com)
-
 ### Schema Slides
 
 * [Schema Slides](https://slides.com/moonhighway/schema-definition-language)
