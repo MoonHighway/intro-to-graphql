@@ -16,6 +16,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 ### GraphQL Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
+- [Apollo Studio Link](https://studio.apollographql.com/sandbox/explorer)
 - [Pet Library Playground](https://pet-library.moonhighway.com)
 - [Moon Highway Vote Playground](http://vote.moonhighway.com)
 - [Snowtooth Playground](https://snowtooth.moonhighway.com)
